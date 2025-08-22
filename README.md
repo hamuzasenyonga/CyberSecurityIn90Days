@@ -2,7 +2,7 @@
 This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. 
 ## 90-Day Cybersecurity Study Plan
 ### Table of Contents
-- [Daily Breakdown](#daily-breakdown)
+[Daily Breakdown](#daily-breakdown)
 - [Day 1–7: Network+ Concepts](#day-1-7-network-concepts)
 - [Day 8–14: Security+ Concepts](#day-8-14-security-concepts)
 - [Day 15–28: Linux Tutorials](#day-15-28-linux-tutorials)
@@ -14,9 +14,6 @@ This repository contains a 90-day cybersecurity study plan, along with resources
 - [Day 85–90: Hacking](#day-85-90-hacking)
 - [Day 91–92: One Page Resume](#day-91-92-one-page-resume)
 - [Day 93–95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
-- [Contributing](#contributing)
-
-
 Introduction
 Welcome to the 90 Days of Cybersecurity challenge!
 This repository provides a structured, 90-day self-paced study plan designed to help learners build a strong foundation in cybersecurity. Whether you're a beginner looking to break into the field or a professional aiming to sharpen your skills, this roadmap offers a wide range of curated resources, hands-on tasks, and learning materials.
