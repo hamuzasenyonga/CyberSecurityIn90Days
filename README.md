@@ -14,6 +14,7 @@ This repository contains a 90-day cybersecurity study plan, along with resources
 - [Day 85–90: Hacking](#day-85-90-hacking)
 - [Day 91–92: One Page Resume](#day-91-92-one-page-resume)
 - [Day 93–95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
+
 Introduction
 Welcome to the 90 Days of Cybersecurity challenge!
 This repository provides a structured, 90-day self-paced study plan designed to help learners build a strong foundation in cybersecurity. Whether you're a beginner looking to break into the field or a professional aiming to sharpen your skills, this roadmap offers a wide range of curated resources, hands-on tasks, and learning materials.
