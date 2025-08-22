@@ -4,8 +4,8 @@ This repository contains a 90-day cybersecurity study plan, along with resources
 ## 90-Day Cybersecurity Study Plan
 
 ### Table of Contents
-Introduction
-Goals and Audience
+#### Introduction
+#### Goals and Audience
 Daily Breakdown
 Day 1-7: Network+ Concepts
 Day 8-14: Security+ Concepts
