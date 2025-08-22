@@ -2,19 +2,20 @@
 This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. 
 ## 90-Day Cybersecurity Study Plan
 ### Table of Contents
-Daily Breakdown
-Day 1-7: Network+ Concepts
-Day 8-14: Security+ Concepts
-Day 15-28: Linux Tutorials
-Day 29-42: Python
-Day 43-56: Traffic Analysis
-Day 57-63: Git
-Day 64-70: ELK
-Day 71-77: GCP or AWS or Azure
-Day 85-90: Hacking
-Day 91-92: One Page Resume
-Day 93-95: Where and How to Apply
-Contributin
+- [Daily Breakdown](#daily-breakdown)
+- [Day 1–7: Network+ Concepts](#day-1-7-network-concepts)
+- [Day 8–14: Security+ Concepts](#day-8-14-security-concepts)
+- [Day 15–28: Linux Tutorials](#day-15-28-linux-tutorials)
+- [Day 29–42: Python](#day-29-42-python)
+- [Day 43–56: Traffic Analysis](#day-43-56-traffic-analysis)
+- [Day 57–63: Git](#day-57-63-git)
+- [Day 64–70: ELK](#day-64-70-elk)
+- [Day 71–77: GCP or AWS or Azure](#day-71-77-gcp-or-aws-or-azure)
+- [Day 85–90: Hacking](#day-85-90-hacking)
+- [Day 91–92: One Page Resume](#day-91-92-one-page-resume)
+- [Day 93–95: Where and How to Apply](#day-93-95-where-and-how-to-apply)
+- [Contributing](#contributing)
+
 
 Introduction
 Welcome to the 90 Days of Cybersecurity challenge!
@@ -147,14 +148,3 @@ Cybersecurity Resume from Resume-Now: https://www.resume-now.com/templates/cyber
 Day 93-95: Where and How to Apply
 
 Search for jobs on Indeed: https://indeed.com Look for opportunities on LinkedIn: https://linkedin.com
-
-Contribution Categories:
-Documentation: Improve or add to the study material and guides.
-Tutorials & Guides: Create or enhance tutorials explaining complex concepts.
-Suggested Resources: Recommend useful tools, articles, books, or other resources.
-Ideas / Topics: Suggest new topics to be added to the learning materials.
-Review & Feedback: Provide feedback on existing materials and suggest improvements.
-Community Support: Answer questions and help others in discussions or issues.
-Tests & Quizzes: Add quizzes, challenges, or tests to check learning progress.
-Real-World Applications: Share real-life examples or case studies of cybersecurity practices.
-Mentoring: Help others with study advice, tips, or hosting study sessions.
